@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('fakeweb')
   s.add_development_dependency('yard', '~> 0.6')
   s.add_development_dependency('maruku', '~> 0.6')
-  s.add_runtime_dependency("faraday", '~> 0.7.4')
+  s.add_runtime_dependency("faraday", '~> 0.6.1')
   s.add_runtime_dependency("faraday_middleware", '~> 0.6.5')
   s.add_runtime_dependency("typhoeus", '~> 0.2.4')
   s.add_runtime_dependency('hashie', '~> 1.0.0')
